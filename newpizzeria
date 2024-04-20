@@ -1,0 +1,29 @@
+<html>
+    <body style="font-family: sans-serif">
+    <h1 style="background-color:lightgreen; color: darkgreen; text-align: center;font-size:50px">Pizza Hour</h1>
+    <h2 style="background-color:firebrick;color:white;font-size:30px">Choose your pizza now</h2>
+    <table style="border: 1px solid red; border-collapse:collapse;font-size:20px;border:1px solid firebrick border-collapse:collapse">
+        <tr style="border:1px solid firebrick; border: 1px solid red; border-collapse:collapse">
+            <td>Name</td>
+            <td>Ingredients</td>
+            <td>Price</td>
+        </tr>
+        <tr style="border 1px solid firebrick;border: 1px solid red; border-collapse:collapse">
+            <td>Hawaiian</td>
+            <td>Chicken, pineapple, cheese, tomato sauce</td>
+            <td>8 dollars</td>
+        </tr>
+        <tr style="border:1px solid firebrick">
+            <td>Pepperoni</td>
+            <td>Pepperoni, sauce, cheese, black pepper, paprika</td>
+            <td>9 dollars</td>
+        </tr>
+        <tr style="border:1px solid firebrick; border: 1px solid red; border-collapse:collapse">
+            <td>Seafood</td>
+            <td>Salmon, mussels, shrimps, olives, cheese</td>
+            <td>12 dollars</td>
+        </tr>
+    </table>
+    <p><img src="/uploads/2020/10/food-3309418_1920_0_1603914793.jpg" width="550px"/></p>
+    </body>
+</html>
